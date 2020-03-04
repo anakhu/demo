@@ -82,36 +82,6 @@
       "image": "assets/img/products/whiskey/white-bourbon.1098.jpg",
       "inStock": true,
       "numberAvailable": 50
-    },
-    {
-      "id": 6,
-      "name": "Black Velvet 1L",
-      "brand": "Black Velvet",
-      "manufacturer": "Canada",
-      "description": "This spirit has a rich taste of sweet homemade cakes, honey and toasted malt, fresh citrus tones and vibrant sherbet. The aftertaste is pleasant and exciting. The aroma of the whiskey reveals notes of honeysuckle, green apple, pear, green grapes, with warm tones and a dry hay and oak chips.",
-      "price": 10,
-      "volume": 1,
-      "package": "no package",
-      "spirit type": "whiskey",
-      "category": "hard drinks",
-      "image": "assets/img/products/whiskey/black-velvet-canadian.2738.jpg",
-      "inStock": true,
-      "numberAvailable": 55
-    },
-    {
-      "id": 7,
-      "name": "Lauder's Scotch Whisky 1L",
-      "brand": "Lauder's",
-      "manufacturer": "Scotland",
-      "description": "All the sweet smoothness of Lauder's Original can be detected in Lauder's 12 Year Old.  Added to this is a greater complexity and maturity of malts, a richer aroma and a longer finish which avoids the heaviness and unbalanced smokiness of some 12 Year Old blends.",
-      "price": 10,
-      "volume": 1,
-      "package": "no package",
-      "spirit type": "whiskey",
-      "category": "hard drinks",
-      "image": "assets/img/products/whiskey/lauders-scotch-whisky.1085.jpg",
-      "inStock": true,
-      "numberAvailable": 18
     }
   ],
   "users": [
